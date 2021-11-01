@@ -1,0 +1,31 @@
+Name
+cm (external configuration)
+crb
+crd
+c-role
+cronjob
+deploy
+ds
+ep
+group
+hpa
+ing (route traffic into cluster)
+job
+limits
+netpol
+ns
+pod (abstraction of containers)
+psp
+pv
+pvc
+quota
+rb
+role
+rs
+sa
+sc
+secret (stores secret such as identity)
+sts
+svc (expose service to local network)
+user
+vol
